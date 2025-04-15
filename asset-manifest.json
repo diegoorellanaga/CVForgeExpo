@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.722eafe8.css",
-    "main.js": "/static/js/main.a00aebb6.js",
-    "static/js/453.298794b9.chunk.js": "/static/js/453.298794b9.chunk.js",
-    "index.html": "/index.html",
-    "main.722eafe8.css.map": "/static/css/main.722eafe8.css.map",
-    "main.a00aebb6.js.map": "/static/js/main.a00aebb6.js.map",
-    "453.298794b9.chunk.js.map": "/static/js/453.298794b9.chunk.js.map"
+    "main.css": "/CVForgeExpo/static/css/main.722eafe8.css",
+    "main.js": "/CVForgeExpo/static/js/main.b2b4ef4b.js",
+    "static/js/453.298794b9.chunk.js": "/CVForgeExpo/static/js/453.298794b9.chunk.js",
+    "index.html": "/CVForgeExpo/index.html",
+    "main.722eafe8.css.map": "/CVForgeExpo/static/css/main.722eafe8.css.map",
+    "main.b2b4ef4b.js.map": "/CVForgeExpo/static/js/main.b2b4ef4b.js.map",
+    "453.298794b9.chunk.js.map": "/CVForgeExpo/static/js/453.298794b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.722eafe8.css",
-    "static/js/main.a00aebb6.js"
+    "static/js/main.b2b4ef4b.js"
   ]
 }
