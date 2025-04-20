@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CVForgeExpo/static/css/main.722eafe8.css",
-    "main.js": "/CVForgeExpo/static/js/main.8bd55525.js",
+    "main.js": "/CVForgeExpo/static/js/main.9c9e91cc.js",
     "static/js/453.298794b9.chunk.js": "/CVForgeExpo/static/js/453.298794b9.chunk.js",
     "index.html": "/CVForgeExpo/index.html",
     "main.722eafe8.css.map": "/CVForgeExpo/static/css/main.722eafe8.css.map",
-    "main.8bd55525.js.map": "/CVForgeExpo/static/js/main.8bd55525.js.map",
+    "main.9c9e91cc.js.map": "/CVForgeExpo/static/js/main.9c9e91cc.js.map",
     "453.298794b9.chunk.js.map": "/CVForgeExpo/static/js/453.298794b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.722eafe8.css",
-    "static/js/main.8bd55525.js"
+    "static/js/main.9c9e91cc.js"
   ]
 }
